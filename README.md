@@ -7,7 +7,7 @@ Essas disciplinas são:
 ### Engenharia de Software
 -  Arquivos dos requisitos em formato pdf
 ### Banco de dados
-- Pasta modelo concieitual
+- Pasta modelo conceitual
    * Arquivo fonte modelo_conceitual.brb
    * imagem em formato png modelo_conceitual.png
 ### Programação II
