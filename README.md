@@ -6,10 +6,15 @@ O trabalho de Integrador tem o objetivo de desenvolver um projeto para três dis
 Essas disciplinas são:
 ### Engenharia de Software
 -  Arquivos dos requisitos em formato pdf
+  
 ### Banco de dados
 - Pasta modelo conceitual
    * Arquivo fonte modelo_conceitual.brb
    * imagem em formato png modelo_conceitual.png
+- Pasta do modelo fisíco
+  * Link do diagrama: https://app.quickdatabasediagrams.com/#/d/5BUEAX
+  * Arquivos com os codigos SQL
+    
 ### Programação II
 - Pasta trabalho-react
    - Desenvolvimento do codigo do sistema incluindo o frontend e o backend.
